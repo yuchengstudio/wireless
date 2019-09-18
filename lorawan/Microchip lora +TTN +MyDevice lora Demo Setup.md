@@ -28,7 +28,7 @@
 correct address here:
 https://www.thethingsnetwork.org/wiki/Backend/Connect/Gateway#connect-a-gateway
 _server-addresses
-For the US, it is router.eu.thethings.network or 52.169.76.203. Since the IP address is
+For the EU, it is router.eu.thethings.network or 52.169.76.203. Since the IP address is
 required, but may change over time, you should check the hostname on an IP resolver
 site like http://whatismyipaddress.com/hostname-ip
 <br/>3.2.3 In the “General Actions” section, click the “Save Settings to SD Card” button
