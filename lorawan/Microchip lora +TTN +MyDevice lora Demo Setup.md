@@ -20,5 +20,6 @@
 #### 3.1.3 Connect an Ethernet cable from your router to the Ethernet jack on the Core Board.
 #### 3.1.4 Connect a micro USB cable from computer to the USB jack on the Gateway Core Board.This will be used to configure the Gateway through the LoRaDevUtility.
 #### 3.1.5 Install the micro SD card into the slot on the Gateway Core Board. This card is used to store the Gateway parameters.
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_002.jpg)
 
 
