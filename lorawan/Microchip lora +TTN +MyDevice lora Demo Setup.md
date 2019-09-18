@@ -13,4 +13,12 @@
 #### 1.2.2 Create an account in https://console.thethingsnetwork.org/
 #### 1.2.3 Create an account in https://mydevices.com/
 
+## 3.Connect Microchip LoRawan mote to TNN
+### 3.1 Setup the Gateway Hardware
+#### 3.1.1 Connect the Gateway Radio Board to the Gateway Core Board.
+#### 3.1.2 Connect the antenna to the Gateway Radio Board.
+#### 3.1.3 Connect an Ethernet cable from your router to the Ethernet jack on the Core Board.
+#### 3.1.4 Connect a micro USB cable from computer to the USB jack on the Gateway Core Board.This will be used to configure the Gateway through the LoRaDevUtility.
+#### 3.1.5 Install the micro SD card into the slot on the Gateway Core Board. This card is used to store the Gateway parameters.
+
 
