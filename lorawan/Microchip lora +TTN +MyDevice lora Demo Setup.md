@@ -41,9 +41,8 @@ LoRaDevUtility, and try it again.
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
 # 3.3 Create an application on TTN console
-<br\>3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as steps:
-<br\> a.
-
+<br/>3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as steps:
+<br/> a.
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_004.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_005.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_006.jpg)
