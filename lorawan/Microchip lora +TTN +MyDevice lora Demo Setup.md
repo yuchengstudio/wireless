@@ -36,11 +36,23 @@ site like http://whatismyipaddress.com/hostname-ip
 are “Online”. If it is not online, you may need to enable enable Port Forwarding in your router to
 open up the port 1700. Or sometimes, you may need to restart the router, the Gateway and the
 LoRaDevUtility, and try it again.
+
+
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
 # 3.3 Create an application on TTN console
-3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as follows:
+<br\>3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as steps:
+<br\> a.
 
-
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_004.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_005.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_006.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_007.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_008.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_009.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_010.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
+![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
 
