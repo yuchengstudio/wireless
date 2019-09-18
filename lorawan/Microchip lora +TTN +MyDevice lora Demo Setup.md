@@ -23,16 +23,16 @@
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_002.jpg)
 
 ## 3.2 Configure the Gateway Parameters
-<br/>3.2.1 In the “Core Board Setup” section, select “DHCP” for the IP Allocation Mode.
-<br/>3.2.2 In the “Server Setup” section, set your LoRa Server IP to the TTN server. You can find the
+<br/>3.2.1  In the “Core Board Setup” section, select “DHCP” for the IP Allocation Mode.
+<br/>3.2.2  In the “Server Setup” section, set your LoRa Server IP to the TTN server. You can find the
 correct address here:
 https://www.thethingsnetwork.org/wiki/Backend/Connect/Gateway#connect-a-gateway
 _server-addresses
 For the EU, it is router.eu.thethings.network or 52.169.76.203. Since the IP address is
 required, but may change over time, you should check the hostname on an IP resolver
 site like http://whatismyipaddress.com/hostname-ip
-<br/>3.2.3 In the “General Actions” section, click the “Save Settings to SD Card” button
-<br/>Once you have completed these steps, you should see in the LoRaDevUtility software that you
+<br/>   3.2.3 In the “General Actions” section, click the “Save Settings to SD Card” button
+<br/>   Once you have completed these steps, you should see in the LoRaDevUtility software that you
 are “Online”. If it is not online, you may need to enable enable Port Forwarding in your router to
 open up the port 1700. Or sometimes, you may need to restart the router, the Gateway and the
 LoRaDevUtility, and try it again.
