@@ -42,15 +42,23 @@ LoRaDevUtility, and try it again.
 
 # 3.3 Create an application on TTN console
 <br/>3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as steps:
-<br/> a.
+<br/> a.在TTN 主界面添加application
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_004.jpg)
+
+<br/> b.在application界面设置相关参数
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_005.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_006.jpg)
+
+<br/> c.设置完application后注册一个device
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_007.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_008.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_009.jpg)
+
+<br/> d.在lora development utility界面配置RN Module参数，并加入网络（可在TNN数据界面查看activation数据帧）
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_010.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_011.jpg)
+
+<br/> e.在lora development utility界面启动RN Module数据发送。（可在TNN数据界面查看uplink数据帧）
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_012.jpg)
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
