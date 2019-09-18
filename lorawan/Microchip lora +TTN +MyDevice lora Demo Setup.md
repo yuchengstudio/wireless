@@ -32,5 +32,9 @@ For the EU, it is router.eu.thethings.network or 52.169.76.203. Since the IP add
 required, but may change over time, you should check the hostname on an IP resolver
 site like http://whatismyipaddress.com/hostname-ip
 <br/>3.2.3 In the “General Actions” section, click the “Save Settings to SD Card” button
+<br/>Once you have completed these steps, you should see in the LoRaDevUtility software that you
+are “Online”. If it is not online, you may need to enable enable Port Forwarding in your router to
+open up the port 1700. Or sometimes, you may need to restart the router, the Gateway and the
+LoRaDevUtility, and try it again.
 
 
