@@ -38,5 +38,9 @@ open up the port 1700. Or sometimes, you may need to restart the router, the Gat
 LoRaDevUtility, and try it again.
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
+# 3.3 Create an application on TTN console
+
+
+
 
 
