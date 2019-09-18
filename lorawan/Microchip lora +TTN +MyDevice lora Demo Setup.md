@@ -39,7 +39,7 @@ LoRaDevUtility, and try it again.
 ![image](https://github.com/yuchengstudio/wireless/blob/master/lorawan/reference/microchip_lora_ttn_003.jpg)
 
 # 3.3 Create an application on TTN console
-
+3.3.1 Go to https://console.thethingsnetwork.org/, click “APPLICATIONS”, and add an application as follows:
 
 
 
